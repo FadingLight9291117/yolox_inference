@@ -1,0 +1,6 @@
+easydict
+torch
+torchvision
+numpy
+cv2
+tqdm
